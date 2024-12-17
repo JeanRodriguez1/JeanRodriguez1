@@ -2,7 +2,7 @@
 
 ![https://github.com/JeanRodriguez1](https://github.com/JeanRodriguez1/JeanRodriguez1/blob/main/cat.jpg?raw=true)
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRodriguez1)](https://github.com/JeanRodriguez1/github-readme-stats&layout=compact"/>
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRodriguez1&layout=compact"/>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/channel/UCp8Xpta1Mxy8073Aij8QA_g)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/bellaquito_brr)
