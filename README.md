@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer | AI & SaaS Builder</h3>
 
 <p align="center">
-  <img src="https://nura-studio.com/_next/image?url=%2Flogos%2Flogo-02.png&w=256&q=75" width="180"/>
+  <img src="https://raw.githubusercontent.com/JeanRodriguez1/JeanRodriguez1/main/image.png" width="180"/>
 </p>
 
 <p align="center">
@@ -37,17 +37,6 @@
   <a href="https://nura-studio.com/software-dev" target="_blank">
     <img src="https://img.shields.io/badge/Nura_Studio-Software_Dev-black?style=for-the-badge"/>
   </a>
-</p>
-
----
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanRodriguez1&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRodriguez1&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
