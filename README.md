@@ -2,6 +2,10 @@
 <h3 align="center">Fullstack Developer | AI & SaaS Builder</h3>
 
 <p align="center">
+  <img src="https://nura-studio.com/_next/image?url=%2Flogos%2Flogo-02.png&w=256&q=75" width="180"/>
+</p>
+
+<p align="center">
   Desarrollo software, automatizaciones e inteligencia artificial para negocios.
 </p>
 
@@ -22,6 +26,21 @@
 
 ---
 
+## 🌐 Links
+<p align="center">
+  <a href="https://www.linkedin.com/in/jean-rodr%C3%ADguez-67234915a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jean_Rodriguez-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.goodreads.com/yanzzzl" target="_blank">
+    <img src="https://img.shields.io/badge/Goodreads-Perfil-372213?style=for-the-badge&logo=goodreads"/>
+  </a>
+  <a href="https://nura-studio.com/software-dev" target="_blank">
+    <img src="https://img.shields.io/badge/Nura_Studio-Software_Dev-black?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
 ## 📊 Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeanRodriguez1&show_icons=true&theme=tokyonight"/>
@@ -33,10 +52,10 @@
 
 ---
 
-## 📫 Contacto
-- 🌐 Web: (pon aquí tu sitio)
-- 📩 Email: (tu correo)
-- 💼 LinkedIn: (tu perfil)
+## 💼 Servicios
+- Desarrollo de software a medida
+- Automatización con IA
+- Integraciones (APIs, pagos, CRM)
 
 ---
 
