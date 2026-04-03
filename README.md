@@ -1,12 +1,46 @@
-### Freelance engineer
+<h1 align="center">Jean Rodriguez</h1>
+<h3 align="center">Fullstack Developer | AI & SaaS Builder</h3>
 
-![https://github.com/JeanRodriguez1](https://github.com/JeanRodriguez1/JeanRodriguez1/blob/main/cat.jpg?raw=true)
+<p align="center">
+  Desarrollo software, automatizaciones e inteligencia artificial para negocios.
+</p>
 
+---
 
+## 🧠 Sobre mí
+- 🚀 Fundador de **Nura Estudio**
+- 💻 Desarrollo web fullstack (React, Next.js, Node.js)
+- 🤖 Integración de IA (OpenAI, automatizaciones)
+- 📈 Enfoque en productos SaaS y soluciones reales
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://www.youtube.com/channel/UCp8Xpta1Mxy8073Aij8QA_g)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/bellaquito_brr)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/5RHFsyjx)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YanRodriguezZzz?style=social)](https://twitter.com/YanRodriguezZzz)
+---
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRodriguez1&layout=compact"/>
+## 🛠️ Tecnologías
+- Frontend: React, Next.js, Tailwind
+- Backend: Node.js, Prisma, PostgreSQL
+- Otros: APIs, Webhooks, IA, Cloud
+
+---
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanRodriguez1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanRodriguez1&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contacto
+- 🌐 Web: (pon aquí tu sitio)
+- 📩 Email: (tu correo)
+- 💼 LinkedIn: (tu perfil)
+
+---
+
+## ⚡ Proyectos destacados
+- 🧾 Sistema de pedidos con QR para restaurantes
+- 🤖 Bots de automatización con IA
+- 📊 Sistemas administrativos personalizados
